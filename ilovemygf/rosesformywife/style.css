@@ -1,0 +1,13 @@
+div{
+    margin: 0 auto;
+}
+
+
+body > *  {
+    width: 500px;
+}
+
+#svg{
+    background-color: navy;
+    background: radial-gradient(navy 0.1%, transparent 38%);
+}CSS Blossoming Flow
